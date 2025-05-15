@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Entorno
+.env
+
+# Coverage reports
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
